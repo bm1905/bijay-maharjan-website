@@ -1,10 +1,18 @@
 # Example Site settings
+title: Bijay Maharjan Website
+email: bijay.maharjan5@gmail.com
+description: >- # this means to ignore newlines until "baseurl:"
+  Bijay Maharjan Webiste.
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "https://www.bmaharjan.com" # the base hostname & protocol for your site, e.g. http://example.com
+github_username:  bm1905
 
 google_analytics: UA-161012603-1
 
 header_pages:
   - index.md
   - about.md
+  - certs.md
   - contact.md
 
 footer: '<a href="https://blogs.bmaharjan.com/">Blogs</a> | <a href="https://github.com/bm1905">GitHub</a> | <a href="https://www.linkedin.com/in/bijay-maharjan-10654b92/">LinkedIn</a> | <a href="https://legacy.bmaharjan.com/">Legacy Site</a>'
@@ -15,3 +23,6 @@ listen_for_clients_preferred_style: true # true or false (default)
 
 plugins:
   - jekyll-seo-tag
+  - jekyll-feed
+
+markdown: kramdown

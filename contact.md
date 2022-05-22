@@ -8,18 +8,13 @@ permalink: /contact
 
 
 <form action="https://formspree.io/f/mqknnzqy" method="POST">
-
   <input type="text" id="email" name="email" placeholder="your email" autocomplete="off">
-
   <input type="text" id="subject" name="subject" placeholder="your subject" autocomplete="off">
-
   <textarea rows="5" id="message" name="message" placeholder="your message" autocomplete="off"></textarea>
-
   <input type="submit" value="[ submit ]">
-
 </form>
 
-<hr>
+<hr />
 
 
 ```
