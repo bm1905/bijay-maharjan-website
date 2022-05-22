@@ -1,0 +1,17 @@
+# Example Site settings
+
+google_analytics: UA-161012603-1
+
+header_pages:
+  - index.md
+  - about.md
+  - contact.md
+
+footer: '<a href="https://blogs.bmaharjan.com/">Blogs</a> | <a href="https://github.com/bm1905">GitHub</a> | <a href="https://www.linkedin.com/in/bijay-maharjan-10654b92/">LinkedIn</a>'
+
+
+style: light # dark (default) or light
+#listen_for_clients_preferred_style: true # true or false (default)
+
+plugins:
+  - jekyll-seo-tag
