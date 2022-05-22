@@ -20,4 +20,4 @@ Software Engineer at Charles Schwab was his lastest experience as per LinkedIn.
 * Lousiana State University Shreveport - BS Computer Science - May, 2020
 
 # Want to know Tuk Tuk's GPA?
-Sorry, but obviously NO. Don't want to embarrass. ".......Oh hello! Not embarrass Tuk Tuk, I am talking about you"
+Sorry, but obviously NO. Don't want to embarrass. "...... Oh hello! Not embarrass Tuk Tuk, I am talking about you"
