@@ -19,5 +19,5 @@ permalink: /contact
 
 
 Things might not go right way! 
-So, here is my email just in case: bijay.maharjan5@gmail.com
+So, here is my email just in case: ***.***@***.com
 
