@@ -15,7 +15,7 @@ header_pages:
   - certs.md
   - contact.md
 
-footer: '<a href="https://blogs.bmaharjan.com/">Blogs</a> | <a href="https://github.com/bm1905">GitHub</a> | <a href="https://www.linkedin.com/in/bijay-maharjan-10654b92/">LinkedIn</a> | <a href="https://legacy.bmaharjan.com/">Legacy Site</a>'
+footer: '<a href="https://blogs.bmaharjan.com/">Blogs</a> | <a href="https://github.com/bm1905">GitHub</a> | <a href="https://www.linkedin.com/in/bijay-maharjan-10654b92/">LinkedIn</a> | <a href="https://www.bmaharjan.com/404.html/">Legacy Site</a>'
 
 
 style: light # dark (default) or light
