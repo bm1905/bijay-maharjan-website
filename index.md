@@ -4,17 +4,13 @@ layout: home
 permalink: /
 ---
 
-# Bijay Maharjan welcomes you!!!
-
-Explore my inner me.
-
+# 👋 Hello, I'm Bijay Maharjan  
+Software Engineer. Problem Solver. System Optimizer.
 
 ```bash
-nano ~/.bash_profile
-# -------
-# Aliases
-# -------
-alias Tuk Tuk = "Bijay Maharjan"
+$ whoami
+Bijay Maharjan – Software Engineer
 
-!(writes_spaghetti_code)
+$ cat mission.txt
+Deliver clean, scalable, and resilient applications through thoughtful architecture and automation
 ```
