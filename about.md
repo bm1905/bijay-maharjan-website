@@ -4,20 +4,12 @@ layout: page
 permalink: /about/
 ---
 
-# Who is Tuk Tuk?
-Tuk Tuk is Bijay. 
+**Q:** Where do you work?  
+- From my room (remote life!).
 
-```
-Spoiler Alert: *****
-```
+**Q:** What’s your academic background?  
+- MS in Computer Science, LSU Shreveport – 2020  
+- BS in Computer Science, LSU Shreveport – 2020
 
-# But where does Tuk Tuk work?
-In his room. 
-
-
-# Did Tuk Tuk go to college?
-* Lousiana State University Shreveport - MS Computer Science - Dec. 2020
-* Lousiana State University Shreveport - BS Computer Science - May, 2020
-
-# Want to know Tuk Tuk's GPA?
-NO
+**Q:** GPA?  
+- We don't talk about that.
