@@ -5,11 +5,11 @@ permalink: /about/
 ---
 
 - **Where do you work?**
-  - From my room (remote life!).
+  - From my room (remote life!) -- Not Anymore! Now Austin, TX.
 
 - **What’s your academic background?**
   - MS in Computer Science, LSU Shreveport – 2020  
   - BS in Computer Science, LSU Shreveport – 2020
 
 - **GPA?**
-  - We don't talk about that.
+  - We don't talk about that in public.
