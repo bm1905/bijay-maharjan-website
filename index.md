@@ -12,5 +12,5 @@ $ whoami
 Bijay Maharjan – Software Engineer
 
 $ cat mission.txt
-Deliver clean, scalable, and resilient applications through thoughtful architecture and automation
+Deliver clean, scalable, and resilient applications through thoughtful architecture and automation leveraging AI 100%
 ```
